@@ -2,7 +2,7 @@
 #### 这是一个测验
 * [百度][https://www.baidu.com/]
 * [work](/work/work.md)
-* ![Image text](../work/aa.jpg)
+* ![Image text](bingfengkushao/work/aa.jpg)
 * ![URL结构说明](https://pic3.zhimg.com/80/v2-a2b66b4c57e24ce3a64e9c5bc8b0aa2a_1440w.jpg)
 
 ```java
